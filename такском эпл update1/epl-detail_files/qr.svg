@@ -1,0 +1,27 @@
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24.945px" height="24.945px" viewBox="0 0 24.945 24.945" enable-background="new 0 0 24.945 24.945" xml:space="preserve">
+<g>
+	<g>
+		<rect x="17.972" y="17.972" fill="#6639B5" width="2" height="2"/>
+		<polygon fill="#6639B5" points="17.972,21.972 17.972,19.972 15.972,19.972 15.972,17.972 13.972,17.972 13.972,19.972 
+			13.972,21.972 		"/>
+		<rect x="15.972" y="15.972" fill="#6639B5" width="2" height="2"/>
+		<rect x="13.972" y="13.972" fill="#6639B5" width="2" height="2"/>
+		<rect x="19.972" y="19.972" fill="#6639B5" width="2" height="2"/>
+		<rect x="19.972" y="15.972" fill="#6639B5" width="2" height="2"/>
+		<rect x="17.972" y="13.972" fill="#6639B5" width="2" height="2"/>
+	</g>
+	<g>
+		<path fill="#6639B5" d="M9.972,14.972v6h-6v-6H9.972 M10.972,13.972h-8v8h8V13.972L10.972,13.972z"/>
+		<polygon fill="#6639B5" points="7.972,16.972 5.972,16.972 5.972,18.972 7.972,18.972 		"/>
+	</g>
+	<g>
+		<path fill="#6639B5" d="M20.972,3.972v6h-6v-6H20.972 M21.972,2.972h-8v8h8V2.972L21.972,2.972z"/>
+		<polygon fill="#6639B5" points="18.972,5.972 16.972,5.972 16.972,7.972 18.972,7.972 		"/>
+	</g>
+	<g>
+		<path fill="#6639B5" d="M9.972,3.972v6h-6v-6H9.972 M10.972,2.972h-8v8h8V2.972L10.972,2.972z"/>
+		<polygon fill="#6639B5" points="7.972,5.972 5.972,5.972 5.972,7.972 7.972,7.972 		"/>
+	</g>
+</g>
+</svg>
